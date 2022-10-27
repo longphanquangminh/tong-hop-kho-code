@@ -9,3 +9,9 @@ def pattern(n):
         print("\r")
 
 pattern(5)
+
+#         * 
+#       * *
+#     * * *
+#   * * * *
+# * * * * *

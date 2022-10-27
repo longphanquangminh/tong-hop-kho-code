@@ -23,4 +23,15 @@ def pattern(width: int = 5):
         print(''.join([''.join([' '] * abs(abs(i) - width)), ' '.join(['*'] * abs(i))]))
     
 pattern(5)
+
+# * * * * *
+#  * * * *
+#   * * *
+#    * *
+#     *
+#     *
+#    * *
+#   * * *
+#  * * * *
+# * * * * *
         
